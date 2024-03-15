@@ -1,5 +1,5 @@
 # SA-Comments
-This is the repository for the course "Obrada prirodnog jezik" 2024. 
+This is the repository for the course "Obrada prirodnog jezika" 2024. 
 
 ## Description
 
